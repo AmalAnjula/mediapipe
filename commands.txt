@@ -2,5 +2,5 @@ chmod +x *.sh  # this is for change file Permisions
 ./download-opencv.sh  done
 ./install-deps.sh done
 ./build-opencv.sh
-cd ~/opencv/opencv-4.3.0/build
+cd ~/opencv/opencv-4.4.0/build
 sudo make install
